@@ -166,7 +166,7 @@ body .layui-layer-dir .layui-layer-content{padding: 10px;}
 .site-h1{margin-bottom: 20px; line-height: 60px; padding-bottom: 10px; color: #393D49; border-bottom: 1px solid #eee;  font-size: 28px; font-weight: 300;}
 .site-h1 .layui-icon{position: relative; top: 5px; font-size: 50px; margin-right: 10px;}
 .site-text{position:relative;}
-.site-text p{margin-bottom: 10px;  line-height:22px;}
+.site-text p{line-height:22px;}
 .site-text em{padding: 0 3px; font-weight: 500; font-style: italic; color: #666;}
 .site-text code{margin:0 5px; padding: 3px 10px; border: 1px solid #e2e2e2; background-color: #fbfbfb; color: #666; border-radius: 2px;}
 
